@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608645956436",
+    "project_id": "matchup-7a408",
+    "storage_bucket": "matchup-7a408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608645956436:android:93616f7b5a26c5a4263ec1",
+        "android_client_info": {
+          "package_name": "com.example.finpro2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608645956436-kuc3uedmo2mb7m6lq6gj04de67vpsqok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAchxAKrGLOycjdPIiMZF-fi8pQFHIyXWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608645956436-7hc8o1dao029mltu5h9qp650p2fmniu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
